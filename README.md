@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Email [contact0@wnd.anonaddy.com](mailto:contact0@wnd.anonaddy.com)
-- PGP Key [386360B0504DA86B](https://github.com/DrWhiteNoise/DrWhiteNoise/raw/master/gitkey.asc)
-- Paypal.Me [link](https://paypal.me/DrWhiteNoise)
+- Email: [contact0@wnd.anonaddy.com](mailto:contact0@wnd.anonaddy.com)
+- PGP Key: [386360B0504DA86B](https://github.com/DrWhiteNoise/DrWhiteNoise/raw/master/gitkey.asc)
+- Paypal.Me: [@DrWhiteNoise](https://paypal.me/DrWhiteNoise)
 
 
 <!--
