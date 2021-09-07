@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-- Email: [contact0@wnd.anonaddy.com](mailto:contact0@wnd.anonaddy.com)
-- PGP Key: [386360B0504DA86B](https://github.com/DrWhiteNoise/DrWhiteNoise/raw/master/gitkey.asc)
-- Paypal.Me: [@DrWhiteNoise](https://paypal.me/DrWhiteNoise)
+This is “semi-anonymous” space for some personal reflections and projects.
 
+Feel thankful? Support my work on [GitHub](https://github.com/sponsors/DrWhiteNoise) or with [Ko-Fi](https://ko-fi.com/drwhitenoise).
 
+Feel intrigued? Shoot me an email at `dr <AT> whitenoise <DOT> dev` (PGP key: [386360B0504DA86B](https://whitenoise.dev/drwn.asc)).
 <!--
 **DrWhiteNoise/DrWhiteNoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
