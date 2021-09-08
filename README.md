@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is "semi-anonymous" space with some personal [reflections](https://whitenoise.dev/articles) and [projects](https://whitenoise.dev/projects). 
+This is a "semi-anonymous" space with some personal reflections and projects. 
 
 I am broadly interested in Machine learning & AI, with a particular focus on building systems that make the *right* decisions. 
 
@@ -12,8 +12,6 @@ Feel intrigued?
 - PGP key: [386360B0504DA86B](https://whitenoise.dev/drwn.asc).
 
 <!--
-**DrWhiteNoise/DrWhiteNoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
