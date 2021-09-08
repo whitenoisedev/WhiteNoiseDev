@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 This is a "semi-anonymous" space with some personal reflections and projects. 
 
