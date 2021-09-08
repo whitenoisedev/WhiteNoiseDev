@@ -8,7 +8,7 @@ Feel intrigued?
 - Read more on [whitenoise.dev](https://whitenoise.dev)
 
 Feel thankful? 
-- Here's how you can [support my work](https://whitenoise.dev/support).
+- Support me with [Ko-Fi](https://ko-fi.com/DrWhiteNoise) or use an [alternative way](/support).
 
 Feel chatty? 
 - Shoot me an email at `contact0 at wnd.anonaddy.com`.   
