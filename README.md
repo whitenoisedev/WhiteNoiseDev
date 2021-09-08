@@ -4,10 +4,13 @@ This is a "semi-anonymous" space with some personal reflections and projects.
 
 I am broadly interested in Machine learning & AI, with a particular focus on building systems that make the *right* decisions. 
 
+Feel intrigued?
+- Read more on [whitenoise.dev](https://whitenoise.dev)
+
 Feel thankful? 
 - Support my work on [GitHub](https://github.com/sponsors/DrWhiteNoise) or with [Ko-Fi](https://ko-fi.com/drwhitenoise).
 
-Feel intrigued? 
+Feel chatty? 
 - Shoot me an email at `dr <AT> whitenoise <DOT> dev`.   
 - PGP key: [386360B0504DA86B](https://whitenoise.dev/drwn.asc).
 
