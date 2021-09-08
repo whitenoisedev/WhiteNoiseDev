@@ -11,8 +11,8 @@ Feel thankful?
 - Support my work on [GitHub](https://github.com/sponsors/DrWhiteNoise) or with [Ko-Fi](https://ko-fi.com/drwhitenoise).
 
 Feel chatty? 
-- Shoot me an email at `dr <AT> whitenoise <DOT> dev`.   
-- PGP key: [386360B0504DA86B](https://whitenoise.dev/drwn.asc).
+- Shoot me an email at `contact0 at wnd.anonaddy.com`.   
+- PGP key: [386360B0504DA86B](https://whitenoise.dev/gitkey.asc).
 
 <!--
 Here are some ideas to get you started:
