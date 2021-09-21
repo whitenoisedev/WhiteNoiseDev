@@ -1,5 +1,4 @@
-Hey there 👋  
-This is a "semi-anonymous" space with some personal reflections and projects.  
+👋 Hey there! This is a "semi-anonymous" space with some personal reflections and projects.  
 I am broadly interested in Machine learning & AI, with a particular focus on building systems that make the *right* decisions. 
 
 - 🤔 Feel intrigued? Read more on [https://whitenoise.dev](https://whitenoise.dev).
