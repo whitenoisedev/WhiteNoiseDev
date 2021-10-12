@@ -1,4 +1,4 @@
-<img align="right" height="250px" src="https://github-readme-stats.vercel.app/api?username=DrWhiteNoise&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=dark&line_height =50&title_color=58a6ff&icon_color=58a6ff&text_color=58a6ff&bg_color=0D1117&hide_border=true"/>
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=DrWhiteNoise&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=dark&line_height =50&title_color=58a6ff&icon_color=58a6ff&text_color=58a6ff&bg_color=0D1117&hide_border=true"/>
 
 Hey there! 👋  
 This is a "semi-anonymous" space with some personal reflections and projects.  
