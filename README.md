@@ -5,4 +5,4 @@ This is a semi-anonymous space with some personal reflections and projects.
 
 I am broadly interested in Machine learning & AI, with a particular focus on building systems that make the *right* decisions. 
 
-<p align=center><a href="https://whitenoise.dev">Website</a> - <a href="https://whitenoise.dev/support">Support me</a> - <a href="https://whitenoise.dev/gitkey.asc">PGP</a> - <a href="mailto:contact0@wnd.anonaddy.com">E-Mail</a></p>
+<p align=center><a href="https://whitenoise.dev">Website</a> - <a href="https://whitenoise.dev/support">Support me</a> - <a href="https://whitenoise.dev/gitkey.asc">PGP</a> - <a href="mailto:random@whitenoise.dev">E-Mail</a></p>
